@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/sudoku",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/sudoku",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
